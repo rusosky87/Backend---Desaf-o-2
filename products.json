@@ -1,0 +1,39 @@
+{
+    "arrayProducts": [
+        {
+            "id":"1",
+            "title": "La Materia de las Sombras",
+            "description": "Novela del género terror por Antonio Runa",
+            "price": "U$D 18.00",
+            "thumbnail": "https://www.casadellibro.com/libro-la-materia-de-las-sombras/9788445016800/14501364",
+            "code": "CD001",
+            "stock": "24"
+        },
+        {
+            "id":"2",
+            "title": "La Heredera del Mar",
+            "description": "Novela del género histórico por Juan Francisco Ferrandiz",
+            "price": "U$D 22.70",
+            "thumbnail": "https://www.casadellibro.com/libro-la-heredera-del-mar/9788425366871/14452303",
+            "code": "CD002",
+            "stock": "15"
+        },
+        {
+            "id":"3",
+            "title": "El Síndrome de la Chica con Suerte",
+            "description": "Novela del género romántico/erótico por Aloma Martinez",
+            "price": "U$D 19.85",
+            "thumbnail": "https://www.casadellibro.com/libro-el-sindrome-de-la-chica-con-suerte/9788425367373/14519564",
+            "code": "CD003",
+            "stock": "10"
+        },
+        {
+            "id":"4",
+            "title": "El Hijo Olvidado",
+            "description": "Novela del género dramático por Mikel Santiago",
+            "price": "U$D 21.75",
+            "thumbnail": "https://www.casadellibro.com/libro-el-hijo-olvidado/9788466677318/14270588",
+            "code": "CD004",
+            "stock": "32"
+        }]
+}
